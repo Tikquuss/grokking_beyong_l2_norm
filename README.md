@@ -2,7 +2,7 @@ This is the code to reproduce our ICML2025 paper titled **“Grokking Beyond the
 
 Below, you will find the notebook to use to reproduce each figure.
 * For compressed sensing and matrix factorization, the experiments do not use GPUs; CPUs are enough: the routines are implemented with `numpy`.
-* For the other experiments (modular addition with MLP, non-linear teacher-student, Sobolev training, MNIST with MLP), a single GPU (specifically, the T4 GPU from Google Colab) is sufficient.
+* For the other experiments (modular addition with MLP, non-linear teacher-student, Sobolev training), a single GPU (specifically, the T4 GPU from Google Colab) is sufficient.
 
 The notebooks are included in the code.
 
@@ -42,4 +42,3 @@ The notebooks are included in the code.
 |   32    | non_linear_teacher_student.ipynb|
 |   33    | non_linear_teacher_student.ipynb|
 |   34    | non_linear_teacher_student_sobolev.ipynb|
-|   35    | TBD                     |
