@@ -3,14 +3,13 @@ torch
 matplotlib
 numpy
 pandas
-#scikit-learn
+scikit-learn
 tqdm
 #opencv-python
 #statsmodels 
 #seaborn
 #mod
 #blobfile
-#wandb
 #plotly
 #sympy
 

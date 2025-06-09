@@ -8,8 +8,8 @@ The notebooks are included in the code.
 
 | Figures | Notebook                |
 |---------|-------------------------|
-|    1    | TBD                     |
-|    2    | TBD                     |
+|    1    | algorithmic_dataset_MLP.ipynb|
+|    2    | algorithmic_dataset_MLP.ipynb|
 |    3    | compressed_sensing.ipynb|
 |    4    | compressed_sensing.ipynb|
 |    5    | matrix_factorization.ipynb|
@@ -17,8 +17,8 @@ The notebooks are included in the code.
 |    7    | compressed_sensing.ipynb|
 |    8    | matrix_factorization.ipynb|
 |    9    | compressed_sensing.ipynb|
-|   10    | TBD                     |
-|   11    | TBD                     |
+|   10    | non_linear_teacher_student.ipynb|
+|   11    | non_linear_teacher_student_sobolev.ipynb|
 |   12    | compressed_sensing.ipynb|
 |   13    | compressed_sensing.ipynb|
 |   14    | matrix_factorization.ipynb|
@@ -37,9 +37,9 @@ The notebooks are included in the code.
 |   27    | compressed_sensing.ipynb|
 |   28    | compressed_sensing.ipynb|
 |   29    | matrix_factorization.ipynb|
-|   30    | TBD                     |
-|   31    | TBD                     |
-|   32    | TBD                     |
-|   33    | TBD                     |
-|   34    | TBD                     |
+|   30    | algorithmic_dataset_MLP.ipynb|
+|   31    | non_linear_teacher_student.ipynb|
+|   32    | non_linear_teacher_student.ipynb|
+|   33    | non_linear_teacher_student.ipynb|
+|   34    | non_linear_teacher_student_sobolev.ipynb|
 |   35    | TBD                     |
