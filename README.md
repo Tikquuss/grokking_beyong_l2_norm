@@ -1,4 +1,4 @@
-This is the code to reproduce our ICML2025 paper titled **“Grokking Beyond the Euclidean Norm of Model Parameters.”**
+This is the code to reproduce our ICML2025 paper titled **Grokking Beyond the Euclidean Norm of Model Parameters** (https://arxiv.org/abs/2506.05718).
 
 Below, you will find the notebook to use to reproduce each figure.
 * For compressed sensing and matrix factorization, the experiments do not use GPUs; CPUs are enough: the routines are implemented with `numpy`.
